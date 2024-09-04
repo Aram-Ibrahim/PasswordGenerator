@@ -1,12 +1,10 @@
 # PasswordGenerator
+Python password generation app with GUI.
 
-### Settings
-To set password characters, use the file settings.json and in the characters clause, change them to the characters you need
+# Requirements:
+    - customtkinter
+    
+# How to run the password generator?
+run `python main.py`
 
-### Using
-```# clone the repo
-pip install customtkinter
-$ git clone https://github.com/pydragon1/PasswordGenerator.git
-cd PasswordGenerator
-python main.py
 
