@@ -41,7 +41,7 @@ copy_btn.pack(side='bottom', padx=10,pady=10)
 
 passwd_frame = ct.CTkFrame(app, width=500, height=150)
 passwd_frame.pack(anchor='n', pady=5)
-label_password = ct.CTkLabel(passwd_frame, text='hello', width=500, height=150, font=('Arial', 18))
+label_password = ct.CTkLabel(passwd_frame, text='Use Generate button', width=500, height=150, font=('Arial', 18))
 label_password.pack()
 
 app.mainloop()
