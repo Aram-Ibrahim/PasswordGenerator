@@ -1,5 +1,5 @@
 # PasswordGenerator
-Python password generation app with GUI.
+Secure python password generation app with GUI.
 
 # Requirements:
     - customtkinter
